@@ -19,6 +19,9 @@ export default {
 .hero {
     background-image: url('../assets/hand-painted-watercolor-background-with-sky-clouds-shape.jpg');
     padding: 200px 100px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 </style>
